@@ -1,0 +1,19 @@
+{
+  "name": "BLOCK ARENA 2.0",
+  "short_name": "Block Arena",
+  "description": "Коллекционная футбольно-боевая мини-игра: кейсы, отряд, быстрые матчи, турниры и рейтинг.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0f1a",
+  "theme_color": "#0a0f1a",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
